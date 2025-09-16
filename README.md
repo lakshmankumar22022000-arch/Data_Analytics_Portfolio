@@ -40,3 +40,12 @@ The goal is to build a **Sales Dashboard** that highlights key business KPIs, id
 - Pivot Tables & Pivot Charts
 - Dashboard Design with KPIs and Slicers
 - Business Insights through Visualization
+
+- ---
+
+## Dashboard View
+- For a full downloadable version of the dashboard, click here:
+- [Download PDF]()
+
+- For a Screenshot version of the dashboard, click here:
+- ![Sales Dashboard]()
